@@ -1,205 +1,156 @@
-<div align="center">
+# Mariem Aissa
 
-# 👋 Hi, I'm Mariem Aissa
+**AI Engineer | GenAI • Machine Learning • Computer Vision**
 
-### AI Engineer | GenAI • Machine Learning • Computer vision
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mariem-aissa-portfolio.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariem-aissa-b16244222)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariem.aissa@ensi-uma.tn)
-
-</div>
+[Portfolio](https://mariem-aissa-portfolio.onrender.com/) • [LinkedIn](https://linkedin.com/in/mariem-aissa-b16244222) • [mariem.aissa@ensi-uma.tn](mailto:mariem.aissa@ensi-uma.tn)
 
 ---
 
-## 🎯 About Me
+## About
 
-I'm a **Computer Science Engineer** specializing in **AI, GenAI and Computer Vision**, passionate about building technology that creates real social impact. Currently leading AI development at **BridgSign**, Tunisia's first real-time sign language translation startup.
+Computer Science Engineer specializing in AI, GenAI, and Computer Vision, with a focus on building technology that creates real social impact. Currently leading AI development at BridgSign, Tunisia's first real-time sign language translation startup.
 
 ```python
 class MariemAissa:
     def __init__(self):
         self.role = "AI Engineer"
-        self.location = "Tunisia 🇹🇳"
+        self.location = "Tunisia"
         self.current_focus = [
             "AI Agents & Tool-Using Systems",
-            "Retrieval-Augmented Generation (RAG) Pipelines",
-            "Large Language Models (LLMs & Fine-Tuning)",
-            "Prompt Engineering & LLM Optimization"
-            "Computer Vision (Pose Estimation, MediaPipe)",
-            "Accessibility Technology",
-            "Sign Language Translation"
+            "Retrieval-Augmented Generation (RAG)",
+            "Large Language Models & Fine-Tuning",
+            "Computer Vision & Pose Estimation",
+            "Accessibility Technology"
         ]
         self.languages = ["Python", "JavaScript", "TypeScript"]
-        self.passion = "Building AI that breaks barriers 🌍"
-    
-    def say_hi(self):
-        print("Let's build something that matters!")
 ```
 
 ---
 
-## 🚀 What I'm Building
+## Professional Experience
 
-### 🤟 **BridgSign** - Real-Time Sign Language Translation
-> **Leading AI Development** | Startup solution | Apr 2025 - Present
+### BridgSign • AI Lead
+**Apr 2025 - Present**
 
-Breaking communication barriers for **300,000+ deaf individuals in Tunisia** through cutting-edge AI:
+Leading AI development for Tunisia's first real-time sign language translation platform, serving 300,000+ deaf individuals.
 
-- **🧠 Computer Vision Pipeline**: MediaPipe pose estimation → Kalman/Savitzky-Golay filtering → rotation modeling
-- **🗣️ NLP Innovation**: Text-to-gloss translation using Gemini AI + SpaCy for Tunisian & French Sign Language rules
-- **🎮 Real-Time Avatar Animation**: Motion data → Unity engine integration → web deployment
-- **📊 Data Engineering**: Multi-format processing (PDF, video, audio), semantic search for missing vocabulary
-- **🌐 Multi-Modal AI**: Combining CV, NLP, and generative models in production-grade pipeline
+• Computer Vision Pipeline: MediaPipe pose estimation with Kalman filtering and rotation modeling  
+• NLP Innovation: Text-to-gloss translation using Gemini AI for Tunisian & French Sign Language  
+• Real-Time Processing: Motion data integration with Unity engine for web deployment  
+• Multi-Modal AI: Production-grade pipeline combining CV, NLP, and generative models
 
-**Tech**: Python • OpenCV • MediaPipe • Gemini AI • SpaCy • Kalman Filters • Unity • Pandas
+**Stack**: Python, OpenCV, MediaPipe, Gemini AI, SpaCy, Unity
 
-> *First-of-its-kind for Tunisian Sign Language* 🇹🇳
+### meddevo, dytab GmbH • Generative AI Developer
+**May 2024 - Nov 2024 • Remote, Germany**
 
----
+Built enterprise AI copilot for pharmaceutical regulatory compliance.
 
-## 💼 Professional Experience
+• Reduced manual review time by 60%  
+• Improved accuracy by 70% through prompt optimization  
+• Achieved 85% code coverage with comprehensive testing suite
 
-### 🏥 **meddevo, dytab GmbH** (Germany - Remote)
-**Generative AI Developer** | May 2024 - Nov 2024
-
-Built enterprise AI copilot for pharmaceutical regulatory compliance:
-- ⚡ Reduced manual review time by **60%**
-- 🎯 Improved accuracy by **70%**
-- 🔧 Optimized prompts → **70% precision increase**
-- ✅ **85% code coverage** with comprehensive testing
-
-**Tech**: OpenAI GPT-4 • Angular • TypeScript • NestJS • MongoDB • Docker
+**Stack**: OpenAI GPT-4, Angular, TypeScript, NestJS, MongoDB, Docker
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 🧠 [MindSync AI](https://github.com/myraissa/MindSync-AI) - Mental Health Companion
-[![Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=streamlit&logoColor=white)](https://mindsync-ai-akywxsuhxjkwb6onu4c6ts.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+### [MindSync AI](https://github.com/myraissa/MindSync-AI) • Mental Health Companion
+[Live Demo](https://mindsync-ai-akywxsuhxjkwb6onu4c6ts.streamlit.app/)
 
-**Production-grade AI mental health assistant** with:
--  Emotion detection using DistilBERT (6 emotions)
--  Persistent memory system for context tracking
--  Crisis detection with emergency resources
--  Multi-language support (English, French, Tunisian Arabic)
--  Real-time pattern analysis across conversations
+Production-grade AI mental health assistant with emotion detection, persistent memory, and crisis intervention capabilities.
 
-**Tech**: Llama 3.1 • HuggingFace Transformers • Streamlit • PyTorch
+• Emotion detection using DistilBERT (6 emotions)  
+• Persistent context tracking across conversations  
+• Multi-language support (English, French, Tunisian Arabic)  
+• Real-time pattern analysis and crisis detection
 
----
-
-### 🎙️ [Audio Transcription API](https://github.com/myraissa/audio-transcription-api)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-
-**Flask REST API** for audio/video transcription:
-- 📹 Supports multiple formats (mp3, wav, mp4, avi)
-- 🌍 Automatic language detection
-- 📝 Word count analysis
-- 💾 Handles files up to 100MB
-- 🔌 CORS-enabled for web integration
-
-**Tech**: Flask • FFmpeg • Language Detection • RESTful APIs
+**Tech**: Llama 3.1, HuggingFace Transformers, Streamlit, PyTorch
 
 ---
 
-## 🛠️ Tech Stack
+### [Tunisian E-Commerce Churn Analysis](https://github.com/myraissa/tunisian-ecommerce-churn)
+
+Machine learning pipeline for customer churn prediction in Tunisian e-commerce sector.
+
+• Feature engineering and exploratory data analysis  
+• Multiple classification models with hyperparameter tuning  
+• Business insights and retention strategy recommendations
+
+**Tech**: Python, Scikit-learn, Pandas, XGBoost
+
+---
+
+### [TunisianDebateAI](https://github.com/myraissa/TunisianDebateAI)
+
+AI system for Tunisian political discourse analysis and debate generation.
+
+• Natural language understanding for Tunisian Arabic context  
+• Argument generation and counter-argument synthesis  
+• Multi-perspective debate simulation
+
+**Tech**: Python, Jupyter Notebook, NLP
+
+---
+
+### [GermanAssistantAI](https://github.com/myraissa/GermanAssistantAI)
+
+Conversational AI assistant for German language learning and task automation.
+
+• Context-aware dialogue management  
+• Multi-intent recognition and handling  
+• Integration with external services
+
+**Tech**: Python, LangChain, OpenAI
+
+---
+
+## Technical Skills
+
+**Languages**: Python, JavaScript, TypeScript, SQL
+
+**AI/ML**: OpenAI GPT, HuggingFace, TensorFlow, PyTorch, Scikit-learn, LangChain
+
+**Computer Vision & NLP**: OpenCV, MediaPipe, SpaCy, NLTK, Transformers
+
+**Frameworks**: React, Angular, Flask, NestJS, Streamlit
+
+**Tools & Infrastructure**: Docker, Git, MongoDB, PostgreSQL, Unity
+
+---
+
+## Education
+
+**National School of Computer Science (ENSI)** • 2021 - 2024  
+Computer Science Engineering Degree  
+*Specialization: Artificial Intelligence, Computer Vision, NLP*
+
+**Preparatory Institute for Engineering Studies (IPEIM)** • 2019 - 2021  
+Mathematics-Physics Preparatory Cycle
+
+---
+
+## Impact & Recognition
+
+• Building accessibility technology for 300,000+ deaf individuals in Tunisia  
+• First-of-its-kind Tunisian Sign Language translation research  
+• Organized Kaggle medical X-ray competition with 600+ global participants  
+• RoboCup ENSI & ENSI Annual Forum organizing team member  
+• Mentored interns on AI/ML projects
+
+---
+
+## Open to Collaboration
+
+I'm interested in collaborating on AI for social impact projects, discussing computer vision and NLP innovations, and exploring startup opportunities in the AI/ML space.
+
+**Contact**: [LinkedIn](https://linkedin.com/in/mariem-aissa-b16244222) • [Email](mailto:mariem.aissa@ensi-uma.tn) • [Portfolio](https://mariem-aissa-portfolio.onrender.com/)
+
+---
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### Computer Vision & NLP
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mariem's GitHub stats](https://github-readme-stats.vercel.app/api?username=myraissa&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myraissa&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 🎓 Education
-
-**🎓 National School of Computer Science (ENSI)** | 2021 - 2024  
-*Computer Science Engineering Degree*  
-Specialization: Artificial Intelligence, Computer Vision, NLP
-
-**📐 Preparatory Institute for Engineering Studies (IPEIM)** | 2019 - 2021  
-*Mathematics-Physics Preparatory Cycle*
-
----
-
-## 🌟 Impact & Recognition
-
-- 🤟 **Building accessibility technology for 300,000+ deaf individuals in Tunisia**
-- 📚 **First-of-its-kind Tunisian Sign Language translation research**
-- 🏆 **Organized Kaggle medical X-ray competition** with 600+ global participants
-- 🤖 **RoboCup ENSI & ENSI Annual Forum** organizing team member
-- 👥 **Mentored interns** on AI/ML projects
-
----
-
-## 💭 Current Focus
-
-```python
-2026_goals = {
-    "building": ["BridgSign Production Launch", "Open-Source Accessibility Tools"],
-    "sharing": ["Technical Blog Posts", "AI for Social Good Talks"],
-    "exploring": ["Multimodal AI Systems", "Real-Time Processing Optimization"]
-}
-```
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to:
-- 🤝 Collaborating on **AI for social impact** projects
-- 💬 Discussing **computer vision**, **NLP**, or **accessibility tech**
-- 🚀 **Startup opportunities** in AI/ML space
-- 📚 Sharing knowledge about **generative AI** and **LLMs**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariem-aissa-b16244222)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariem.aissa@ensi-uma.tn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mariem-aissa-portfolio.onrender.com/)
-
----
-
-*"Technology should break barriers, not build them."* 🌍✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=myraissa&color=blueviolet&style=flat-square&label=Profile+Views)
+*Building technology that breaks barriers*
 
 </div>
