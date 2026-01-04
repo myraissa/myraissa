@@ -3,7 +3,7 @@
 [Portfolio](https://mariem-aissa-portfolio.onrender.com/) • [LinkedIn](https://linkedin.com/in/mariem-aissa-b16244222) • [Email](mailto:mariem.aissa@ensi-uma.tn)
 
 ## 👨‍💻 About Me
-I'm an AI Engineer from Tunisia, specializing in Generative AI, Computer Vision, and Natural Language Processing. Currently leading AI development at BridgSign, Tunisia's first real-time sign language translation startup. With a Computer Science Engineering degree from the National School of Computer Science (ENSI), I focus on building AI solutions that create real social impact.
+I'm an AI Engineer from Tunisia, specializing in Generative AI, Computer Vision, and Natural Language Processing. Currently leading the AI solution at BridgSign, Tunisia's first real-time sign language translation startup. With a Computer Science Engineering degree from the National School of Computer Science (ENSI), I focus on building AI solutions that create real social impact.
 
 💡 I'm passionate about:
 - AI Agents & Tool-Using Systems
