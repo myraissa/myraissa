@@ -47,7 +47,7 @@ I'm an AI Engineer from Tunisia, specializing in Generative AI, Computer Vision,
 **AI Lead** | Real-time translation system for Tunisia's deaf community
 - Multi-modal AI pipeline combining computer vision and NLP
 - MediaPipe pose estimation with Gemini AI text-to-gloss translation
-- Serving 300,000+ users
+
 
 **Stack**: Python | OpenCV | MediaPipe | Gemini AI | SpaCy | Unity
 
