@@ -11,6 +11,8 @@ Previously: built Tunisia's first real-time sign language translation API (30 FP
 
 ---
 
+## What I've shipped
+
 ### Beem 360 — On-Premise LLM System
 *AI Engineer · DAL Digital, Saudi Arabia · March 2026 – Present*
 
@@ -22,8 +24,6 @@ Privacy-preserving LLM system for enterprise project data — sensitive data nev
 `Python` `Docker` `Ollama/Llama` `PDF Generation` `LLM Systems` 
 
 ---
-
-## What I've shipped
 
 ### BridgSign — Real-Time Sign Language AI
 *AI Engineer · Tradrly, Tunisia · May 2025 – Feb 2026*
