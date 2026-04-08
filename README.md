@@ -23,8 +23,6 @@ Privacy-preserving LLM system for enterprise project data — sensitive data nev
 
 `Python` `Docker` `Ollama/Llama` `PDF Generation` `LLM Systems` 
 
----
-
 ### BridgSign — Real-Time Sign Language AI
 *AI Engineer · Tradrly, Tunisia · May 2025 – Feb 2026*
 
@@ -38,8 +36,6 @@ Built the entire AI stack from scratch — no existing dataset, no prior work to
 - Shipped as a Flask API; mentored 2 interns on pipeline extensions
 
 `Python` `MediaPipe` `OpenCV` `Flask` `spaCy` `Gemini API` `Signal Processing`
-
----
 
 ### meddevo AI Copilot — Regulatory Compliance (MedTech)
 *AI Software Engineer Intern · dytab GmbH, Germany · May 2024 – Nov 2024*
