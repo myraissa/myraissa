@@ -98,22 +98,6 @@ AI copilot for EU MDR medical device documentation, built and deployed for real 
 
 ---
 
-## Selected Project
-
-### MindSync AI — Mental Health Companion
-**Personal Project**  
-[Live Demo](https://mindsync-ai-akywxsuhxjkwb6onu4c6ts.streamlit.app/) • [GitHub](https://github.com/myraissa/MindSync-AI)
-
-Production-deployed mental health chatbot with:
-- crisis detection
-- emotion tracking across **6 emotion classes**
-- trilingual support: **English, French, Arabic**
-
-**Tech stack**  
-`Llama 3.1` `DistilBERT` `HuggingFace` `Streamlit` `PyTorch`
-
----
-
 ## Technical Skills
 
 ### LLM & AI Systems
