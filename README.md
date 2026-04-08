@@ -23,6 +23,7 @@ Privacy-preserving LLM system for enterprise project data — sensitive data nev
 
 `Python` `Docker` `Ollama/Llama` `PDF Generation` `LLM Systems` 
 
+
 ### BridgSign — Real-Time Sign Language AI
 *AI Engineer · Tradrly, Tunisia · May 2025 – Feb 2026*
 
@@ -37,6 +38,7 @@ Built the entire AI stack from scratch — no existing dataset, no prior work to
 
 `Python` `MediaPipe` `OpenCV` `Flask` `spaCy` `Gemini API` `Signal Processing`
 
+
 ### meddevo AI Copilot — Regulatory Compliance (MedTech)
 *AI Software Engineer Intern · dytab GmbH, Germany · May 2024 – Nov 2024*
 
@@ -49,9 +51,6 @@ AI copilot for EU MDR medical device documentation — built and deployed to rea
 - Reduced documentation time by 60%; improved response precision through iterative prompt optimization
 
 `GPT-4` `RAG` `TypeScript` `Angular` `NestJS` `MongoDB` `Docker` `GitHub Actions`
-
----
-
 
 ### MindSync AI — Mental Health Companion
 *Personal project · [Live Demo](https://mindsync-ai-akywxsuhxjkwb6onu4c6ts.streamlit.app/) · [GitHub](https://github.com/myraissa/MindSync-AI)*
