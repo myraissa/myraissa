@@ -1,93 +1,181 @@
-# Mariem Aissa — AI Engineer
+<h1 align="center">Mariem Aissa</h1>
+<h3 align="center">AI Engineer • Production-Grade LLM Systems • Real-Time Computer Vision • Full-Stack AI Applications</h3>
 
-[Portfolio](https://myraissa.github.io/aissa-mariem-portfolio/) • [LinkedIn](https://linkedin.com/in/mariem-aissa-b16244222) • [Email](mailto:mariem.aissa@ensi-uma.tn)
-
----
-
-I build AI systems that ship to production — not notebooks, not demos. My work spans LLM pipelines, real-time computer vision, and full-stack AI applications. Every project in my pinned repos has a reference letter behind it.
-
-Currently: building a privacy-preserving on-premise LLM system for Saudi enterprise project analytics.  
-Previously: built Tunisia's first real-time sign language translation API (30 FPS, text/audio/video → animated avatar), and an AI regulatory compliance copilot for a German MedTech company (60% documentation time reduction, in production).
+<p align="center">
+  <a href="https://myraissa.github.io/aissa-mariem-portfolio/">Portfolio</a> •
+  <a href="https://linkedin.com/in/mariem-aissa-b16244222">LinkedIn</a> •
+  <a href="mailto:mariem.aissa@ensi-uma.tn">Email</a>
+</p>
 
 ---
 
-## What I've shipped
+## About Me
+
+I build AI systems that ship to production — not notebooks, not demos.
+
+My work spans **LLM pipelines**, **real-time computer vision**, and **full-stack AI products**, with experience delivering systems for enterprise, healthcare, and accessibility use cases.
+
+Currently, I’m building a **privacy-preserving on-premise LLM system** for enterprise project analytics in Saudi Arabia. Previously, I built:
+
+- **Tunisia’s first real-time sign language translation API**  
+  `text/audio/video → animated avatar at 30 FPS`
+- **An AI regulatory compliance copilot** for a German MedTech company  
+  `deployed in production with 60% documentation time reduction`
+
+> Every major project in my pinned repositories is backed by real delivery experience and reference letters.
+
+---
+
+## Featured Experience
 
 ### Beem 360 — On-Premise LLM System
-*AI Engineer · DAL Digital, Saudi Arabia · March 2026 – Present*
+**AI Engineer · DAL Digital, Saudi Arabia**  
+**March 2026 – Present**
 
-Privacy-preserving LLM system for enterprise project data — sensitive data never leaves the client's infrastructure.
+Privacy-preserving LLM system for enterprise project data, designed so sensitive information never leaves the client’s infrastructure.
 
-- Docker-based deployment; multi-level pipeline: task summarisation and translation through to sub-company historical performance aggregation
-- Automated PDF report generation for investor and stakeholder reporting (budget breakdowns, employee directories, project status)
+**Key contributions**
+- Built a Docker-based on-premise deployment architecture
+- Developed a multi-stage LLM pipeline covering task summarization, translation, and historical sub-company performance aggregation
+- Automated PDF report generation for investor and stakeholder reporting, including:
+  - budget breakdowns
+  - employee directories
+  - project status summaries
 
-`Python` `Docker` `Ollama/Llama` `PDF Generation` `LLM Systems` 
+**Tech stack**  
+`Python` `Docker` `Ollama` `Llama` `PDF Generation` `LLM Systems`
 
+---
 
 ### BridgSign — Real-Time Sign Language AI
-*AI Engineer · Tradrly, Tunisia · May 2025 – Feb 2026*
+**AI Engineer · Tradrly, Tunisia**  
+**May 2025 – Feb 2026**
 
-End-to-end pipeline: text, audio, or video input → animated sign language avatar at 30 FPS.  
-Built the entire AI stack from scratch — no existing dataset, no prior work to reference.
+End-to-end AI pipeline that converts **text, audio, or video input into an animated sign language avatar at 30 FPS**.
 
-- Recorded and processed 1,000+ expert sign units: MediaPipe pose extraction, torso normalization, forward kinematics finger rotations, facial blendshapes for lip-sync
-- Engineered NLP grammar layer (spaCy + Gemini API) for text → gloss conversion, supporting Tunisian, French, and English Sign Language
-- Smoothed concatenated motion sequences using Savitzky–Golay filtering and cubic spline interpolation
-- Integrated ASR for Arabic/French audio input; defined JSON motion schema with Unity developer for WebGL playback
-- Shipped as a Flask API; mentored 2 interns on pipeline extensions
+Built the full AI system from scratch — including data creation, motion processing, NLP, and deployment.
 
+**Key contributions**
+- Recorded and processed **1,000+ expert sign units**
+- Built a pose-to-animation pipeline using:
+  - MediaPipe pose extraction
+  - torso normalization
+  - forward kinematics for finger rotations
+  - facial blendshapes for lip-sync
+- Engineered an NLP grammar layer using **spaCy + Gemini API** for **text → gloss conversion**
+- Supported **Tunisian, French, and English Sign Language**
+- Smoothed motion transitions using **Savitzky–Golay filtering** and **cubic spline interpolation**
+- Integrated ASR for Arabic and French audio input
+- Designed a JSON motion schema with the Unity developer for WebGL playback
+- Shipped the system as a Flask API and mentored 2 interns on pipeline extensions
+
+**Tech stack**  
 `Python` `MediaPipe` `OpenCV` `Flask` `spaCy` `Gemini API` `Signal Processing`
 
+---
 
-### meddevo AI Copilot — Regulatory Compliance (MedTech)
-*AI Software Engineer Intern · dytab GmbH, Germany · May 2024 – Nov 2024*
+### meddevo AI Copilot — Regulatory Compliance for MedTech
+**AI Software Engineer Intern · dytab GmbH, Germany**  
+**May 2024 – Nov 2024**
 
-AI copilot for EU MDR medical device documentation — built and deployed to real customers.
+AI copilot for EU MDR medical device documentation, built and deployed for real customer workflows.
 
-- RAG system with GPT-4 and EU MDR knowledge bases for context-aware generation
-- Streaming infrastructure via Server-Sent Events for real-time AI feedback
-- Full workflow engine: TypeScript + Angular + NestJS + MongoDB
-- 85% test coverage; worked directly with regulatory affairs consultants and early customers
-- Reduced documentation time by 60%; improved response precision through iterative prompt optimization
+**Key contributions**
+- Built a **RAG system** using GPT-4 and EU MDR knowledge bases for context-aware document generation
+- Implemented **real-time streaming feedback** via Server-Sent Events
+- Contributed to the end-to-end product workflow using:
+  - TypeScript
+  - Angular
+  - NestJS
+  - MongoDB
+- Achieved **85% test coverage**
+- Worked directly with regulatory affairs consultants and early customers
+- Reduced documentation time by **60%**
+- Improved response precision through iterative prompt optimization
 
+**Tech stack**  
 `GPT-4` `RAG` `TypeScript` `Angular` `NestJS` `MongoDB` `Docker` `GitHub Actions`
 
+---
+
+## Selected Project
+
 ### MindSync AI — Mental Health Companion
-*Personal project · [Live Demo](https://mindsync-ai-akywxsuhxjkwb6onu4c6ts.streamlit.app/) · [GitHub](https://github.com/myraissa/MindSync-AI)*
+**Personal Project**  
+[Live Demo](https://mindsync-ai-akywxsuhxjkwb6onu4c6ts.streamlit.app/) • [GitHub](https://github.com/myraissa/MindSync-AI)
 
-Production-deployed mental health chatbot with crisis detection, emotion tracking across 6 emotion classes, and trilingual support (English, French, Arabic).
+Production-deployed mental health chatbot with:
+- crisis detection
+- emotion tracking across **6 emotion classes**
+- trilingual support: **English, French, Arabic**
 
+**Tech stack**  
 `Llama 3.1` `DistilBERT` `HuggingFace` `Streamlit` `PyTorch`
 
 ---
 
-## Technical skills
+## Technical Skills
 
-**LLM & AI systems:** RAG pipelines, prompt engineering, agent workflows, LangChain, LangGraph, GPT-4, Gemini, Llama/Ollama, on-premise LLM deployment  
-**Computer vision:** MediaPipe, OpenCV, pose estimation, motion capture, signal processing (Savitzky–Golay, cubic spline interpolation)  
-**NLP:** spaCy, DistilBERT, HuggingFace Transformers, ASR integration, text → gloss grammar transformation  
-**Backend & APIs:** Python, FastAPI, Flask, NestJS, TypeScript, REST, Server-Sent Events  
-**Infrastructure:** Docker, GitHub Actions, CI/CD, Linux  
-**Databases:** MongoDB, MySQL, FAISS, SentenceTransformers  
-**Testing:** Pytest, unit/integration testing (85% coverage in production systems)
+### LLM & AI Systems
+RAG pipelines, prompt engineering, agent workflows, LangChain, LangGraph, GPT-4, Gemini, Llama, Ollama, on-premise LLM deployment
+
+### Computer Vision
+MediaPipe, OpenCV, pose estimation, motion capture, signal processing, Savitzky–Golay filtering, cubic spline interpolation
+
+### NLP
+spaCy, DistilBERT, HuggingFace Transformers, ASR integration, text-to-gloss grammar transformation
+
+### Backend & APIs
+Python, FastAPI, Flask, NestJS, TypeScript, REST APIs, Server-Sent Events
+
+### Infrastructure
+Docker, GitHub Actions, CI/CD, Linux
+
+### Databases & Retrieval
+MongoDB, MySQL, FAISS, SentenceTransformers
+
+### Testing
+Pytest, unit testing, integration testing, production-grade QA practices
 
 ---
 
 ## Education
 
-**National School of Computer Science (ENSI)** — Computer Science Engineering Degree, 2021–2024  
-Top-ranked Tunisian engineering school; admitted via national competitive exam (top 5% of science graduates)
+### National School of Computer Science (ENSI)
+**Computer Science Engineering Degree**  
+**2021 – 2024**
+
+Top-ranked Tunisian engineering school, admitted through the national competitive exam for engineering schools (**top 5% of science graduates**).
 
 ---
 
 ## References
 
 Reference letters available from:
-- **Michael Kania, CEO — dytab GmbH (Germany)** · *"Extremely motivated. Always found sensible and practicable solutions. Went above and beyond the call of duty."*
-- **Salah Sammari, CEO — Tradrly (Tunisia)** · *"Strong technical skills, professionalism, and a high level of commitment. I strongly recommend Ms. Mariem Aissa for any opportunity in Data Science."*
 
-Full letters available on request 
+- **Michael Kania**, CEO — **dytab GmbH (Germany)**  
+  *“Extremely motivated. Always found sensible and practicable solutions. Went above and beyond the call of duty.”*
+
+- **Salah Sammari**, CEO — **Tradrly (Tunisia)**  
+  *“Strong technical skills, professionalism, and a high level of commitment. I strongly recommend Ms. Mariem Aissa for any opportunity in Data Science.”*
+
+**Full reference letters available on request.**
 
 ---
 
-*Engineering degree from Tunisia. Shipping production AI. Looking for the next hard problem*
+## Current Focus
+
+I’m looking for opportunities to work on **high-impact AI systems** at the intersection of:
+
+- LLM infrastructure
+- applied NLP
+- computer vision
+- production AI engineering
+
+If you're building something technically ambitious, feel free to reach out.
+
+---
+
+<p align="center">
+  <i>Engineering degree from Tunisia. Shipping production AI. Looking for the next hard problem.</i>
+</p>
